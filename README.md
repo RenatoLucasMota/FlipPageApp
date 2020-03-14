@@ -18,4 +18,4 @@ Inspirado no Design: br.pinterest.com/pin/682365781025636600/
 
 # Preview
 
-![](https://raw.githubusercontent.com/RenatoLucasMota/CreditAccountApp/master/ezgif-3-4745a3c0aca9.gif)
+![](https://github.com/RenatoLucasMota/FlipPage-App/blob/master/ezgif-6-790b17909ee2.gif?raw=true)
